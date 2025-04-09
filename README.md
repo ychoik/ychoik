@@ -1,4 +1,4 @@
-## Hi there 👋
+## 영남대학교 컴퓨터공학과 22학번 윤찬익
 
 <!--
 **ychoik/ychoik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
