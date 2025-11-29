@@ -1,4 +1,4 @@
-## 영남대학교 컴퓨터공학과 22학번 윤찬익
+## 윤찬익
 기술스택:
 Java(Spring), Python(FastAPI), AWS, HTML, CSS, Git
 
