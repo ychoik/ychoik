@@ -1,37 +1,58 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Welcome%20my%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 일상 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 일상생활의 불편함을 해결하기 위해 노력하는 개발자입니다. </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b"> </a>
-         <a href=mailto:yooni06151236@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yooni06151236@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHAN IK YUN%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=CHAN IK YUN&custom_title=CHAN IK YUN's Github Stat&bg_color=180,6138ad,00000000&title_color=ffffff&text_color=ffffff"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAN IK YUN&layout=compact&bg_color=180,6138ad,00000000&title_color=ffffff&text_color=ffffff"
-          /> </div> 
-    </div>
-    
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60)
+
+</div>
+
+## 일상 개발자
+일상생활의 불편함을 해결하기 위해 노력하는 개발자입니다.
+
+---
+
+## 🛠 Tech Stacks
+
+### Backend & Language
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Infra / Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+
+---
+
+## 🧑‍💻 Contact me
+
+<p>
+  <a href="https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="mailto:yooni06151236@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=ychoik&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
+
+---
+
+
 
 <!--
 **ychoik/ychoik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
