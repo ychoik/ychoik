@@ -5,12 +5,15 @@
 </div>
 
 ## 일상생활의 불편함을 해결하기 위해 노력하는 개발자입니다.
-자바 스프링을 주로 사용하는 백엔드 개발자 윤찬익 입니다.
+자바 스프링을 주로 사용하고 있습니다.
 
----
-### 관련 정보 <br> https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b?pvs=10
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ychoik&show_icons=true&theme=tokyonight)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ychoik&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychoik&layout=compact&theme=tokyonight" height="180em" />
+</div>
 
 ## 🛠 Tech Stacks
 
