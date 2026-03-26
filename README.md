@@ -10,6 +10,7 @@
 ---
 ### 관련 정보 <br> https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b?pvs=10
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ychoik&show_icons=true&theme=tokyonight)
 
 ## 🛠 Tech Stacks
 
