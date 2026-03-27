@@ -4,17 +4,64 @@
 
 </div>
 
-## 일상생활의 불편함을 해결하기 위해 노력하는 백엔드 개발자입니다.
-자바 스프링을 주로 사용하고 있습니다. <br>
-이력서 : https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b
+# 👋 Backend Developer Yun Chan Ik
 
-## Projects
+일상 속 문제를 기술로 해결하는 백엔드 개발자입니다.
+Java & Spring 기반 서버 개발을 중심으로, 성능 개선과 시스템 안정성에 집중합니다.
 
-| 프로젝트 | 설명 | 링크 |
-|----------|------|------|
-| **MagNavi** | 지구 자기장 기반 실내 내비게이션 프로젝트 | [Repository](https://github.com/ychoik/back_fastapi_my) |
-| **Paperdot** | 영어 원문과 번역을 문장 단위로 매칭해 학습을 돕는 서비스 | [Repository](https://github.com/swyppaperreader/be-paper-reader) |
+📄 [Resume](https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b)
 
+---
+
+## 🚀 Representative Projects
+
+### MagNavi : 지구자기장을 활용한 실내 내비게이션
+
+**📅 2025.02 ~ 2025.11 | KCI 등재 학술지 논문 게재 (한국통신학회, KICS)**
+
+- FastAPI 기반 비동기 API 서버 설계 및 구축  
+- 자기장 왜곡 보정 알고리즘 적용 → **정확도 25% 향상 (72.5% → 97.3%)**
+- DB 구조 단순화 → **데이터 처리 효율 30% 개선**
+- AWS EC2 + Git 배포 자동화 + PM2 → **배포 시간 30% 단축**
+- 모델 호출 최적화 → **운영 비용 10% 절감**
+
+👉 **최종 성과: 실내 위치 오차 0.9m 달성**
+
+🔗 [논문(DBpia)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12567180) | 
+[GitHub](https://github.com/ychoik/back_fastapi_my) | 
+[Demo영상](https://www.youtube.com/watch?v=kqR17mF1d1U)
+
+---
+
+### Paperdot : 영어 원문-번역 1:1 매칭 서비스
+
+**📅 2025.12.29 ~ 2026.02.28 | SWYP 프로젝트 웹 12기 수료**
+
+- PDF 논문을 분석하여 **원문-번역 매칭 자동화 서비스 개발**
+
+- 생성형 AI 기반 텍스트 추출  
+  → 복잡한 논문·다단 레이아웃까지 처리 가능
+
+- LLM 호출 최적화  
+  → **API 비용 12% 절감**
+
+- chunk 단위 처리 + 비동기 구조  
+  → **응답 속도 및 처리 효율 20% 향상**
+
+- 페이지 단위 병렬 처리 + Vision 적용  
+  → **전체 처리 시간 30% 단축**
+
+🔗 [GitHub](https://github.com/swyppaperreader/be-paper-reader)
+
+---
+<!--
+## 📌 Project Summary
+
+| Project | Description | Link |
+|--------|------------|------|
+| **MagNavi** | 자기장 기반 실내 측위 및 내비게이션 | [Repo](https://github.com/ychoik/back_fastapi_my) |
+| **Paperdot** | 영어 원문-번역 1:1 매칭 학습 서비스 | [Repo](https://github.com/swyppaperreader/be-paper-reader) |
+-->
 
 ---
 ## 🏆 Activities
