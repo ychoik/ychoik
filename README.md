@@ -15,6 +15,21 @@
 | **Paperdot** | 영어 원문과 번역을 문단 단위로 매칭해 학습을 돕는 서비스 | [Repository](https://github.com/swyppaperreader/be-paper-reader) |
 | **MagNavi** | 자기장 기반 실내 위치 예측 및 내비게이션 프로젝트 | [Repository](https://github.com/ychoik/back_fastapi_my) |
 
+---
+## 🏆 Activities
+
+
+- KCI 등재 학술지 논문 게재 / 2025년 10월 21일 / 한국통신학회(KICS) <br>
+  (DBpia 링크 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12567180)
+- 2025년 캡스톤디자인 경진대회 /최우수상/ 2025년 09월 27일/ 영남대학교
+- 2025년도 제 1회 MIDAS CDP 경진대회/ 최우수상 / 2025년 09월 09일/ 영남대학교 SW중심대학사업단
+- MIDAS GROUP 최종발표회/ 대상/ 2025년 12월 2일/ 영남대학교 SW중심대학사업단
+- IT 개발 동아리 "ESC" 회장 /2024-2025
+- IT 사이드 프로젝트 프로그램 SWYP 웹 12기 수료 / 2026.12.29 ~ 2026.02.28
+- 디지털 금융 인재 양성과정 수료 (AWS 및 클라우드 교육)/ 메가존클라우드 아이티 평생교육원/ 2023. 09
+- Programmers 클라우드 기반 백엔드 엔지니어링 부트캠프 / 2026.01.27~
+---
+
 
 ## GitHub Stats
 
@@ -48,20 +63,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 
----
-## 🏆 Activities
 
-
-- KCI 등재 학술지 논문 게재 / 2025년 10월 21일 / 한국통신학회(KICS) <br>
-  (DBpia 링크 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12567180)
-- 2025년 캡스톤디자인 경진대회 /최우수상/ 2025년 09월 27일/ 영남대학교
-- 2025년도 제 1회 MIDAS CDP 경진대회/ 최우수상 / 2025년 09월 09일/ 영남대학교 SW중심대학사업단
-- MIDAS GROUP 최종발표회/ 대상/ 2025년 12월 2일/ 영남대학교 SW중심대학사업단
-- IT 개발 동아리 "ESC" 회장 /2024-2025
-- IT 사이드 프로젝트 프로그램 SWYP 웹 12기 수료 / 2026.12.29 ~ 2026.02.28
-- 디지털 금융 인재 양성과정 수료 (AWS 및 클라우드 교육)/ 메가존클라우드 아이티 평생교육원/ 2023. 09
-- Programmers 클라우드 기반 백엔드 엔지니어링 부트캠프 / 2026.01.27~
----
 
 ## 🧑‍💻 Contact me
 
