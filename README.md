@@ -8,6 +8,14 @@
 자바 스프링을 주로 사용하고 있습니다.
 
 
+## Projects
+
+| 프로젝트 | 설명 | 링크 |
+|----------|------|------|
+| **Paperdot** | 영어 원문과 번역을 문단 단위로 매칭해 학습을 돕는 서비스 | [Repository](https://github.com/swyppaperreader/be-paper-reader) |
+| **MagNavi** | 자기장 기반 실내 위치 예측 및 내비게이션 프로젝트 | [Repository](https://github.com/ychoik/back_fastapi_my) |
+
+
 ## GitHub Stats
 
 <div align="center">
