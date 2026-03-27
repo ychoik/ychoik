@@ -5,15 +5,16 @@
 </div>
 
 ## 일상생활의 불편함을 해결하기 위해 노력하는 백엔드 개발자입니다.
-자바 스프링을 주로 사용하고 있습니다.
-
+자바 스프링을 주로 사용하고 있습니다. <br>
+이력서 : https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b
 
 ## Projects
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| **Paperdot** | 영어 원문과 번역을 문단 단위로 매칭해 학습을 돕는 서비스 | [Repository](https://github.com/swyppaperreader/be-paper-reader) |
-| **MagNavi** | 자기장 기반 실내 위치 예측 및 내비게이션 프로젝트 | [Repository](https://github.com/ychoik/back_fastapi_my) |
+| **MagNavi** | 지구 자기장 기반 실내 위치 예측 및 내비게이션 프로젝트 | [Repository](https://github.com/ychoik/back_fastapi_my) |
+| **Paperdot** | 영어 원문과 번역을 문장 단위로 매칭해 학습을 돕는 서비스 | [Repository](https://github.com/swyppaperreader/be-paper-reader) |
+
 
 ---
 ## 🏆 Activities
