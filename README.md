@@ -12,7 +12,7 @@
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| **MagNavi** | 지구 자기장 기반 실내 위치 예측 및 내비게이션 프로젝트 | [Repository](https://github.com/ychoik/back_fastapi_my) |
+| **MagNavi** | 지구 자기장 기반 실내 내비게이션 프로젝트 | [Repository](https://github.com/ychoik/back_fastapi_my) |
 | **Paperdot** | 영어 원문과 번역을 문장 단위로 매칭해 학습을 돕는 서비스 | [Repository](https://github.com/swyppaperreader/be-paper-reader) |
 
 
