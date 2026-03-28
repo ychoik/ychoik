@@ -4,7 +4,7 @@
 
 </div>
 
-# 👋 Backend Developer Yun Chan Ik
+# 👋 Backend Developer Chan Ik Yun
 
 일상 속 문제를 기술로 해결하는 백엔드 개발자입니다.
 Java & Spring 기반 서버 개발을 중심으로, 성능 개선과 시스템 안정성에 집중합니다.
