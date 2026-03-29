@@ -6,10 +6,21 @@
 
 # 👋 Backend Developer Chan Ik Yun
 
-일상 속 문제를 기술로 해결하는 백엔드 개발자입니다.
-Java & Spring 기반 서버 개발을 중심으로, 성능 개선과 시스템 안정성에 집중합니다.
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img src="프로필.jpeg" width="180" />
+    </td>
+    <td valign="top">
 
-📄 [Resume](https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b)
+일상 속 문제를 기술로 해결하는 백엔드 개발자입니다.  
+Java & Spring 기반 서버 개발을 중심으로, 성능 개선과 시스템 안정성에 집중합니다.  
+<br><br>
+📄 [상세 이력사항](https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
