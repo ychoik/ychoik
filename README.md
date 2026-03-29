@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <td width="220" valign="top">
-      <img src="프로필.png" width="180" />
+    <td width="350" valign="top">
+      <img src="프로필.png" width="400" />
     </td>
     <td valign="top">
 
