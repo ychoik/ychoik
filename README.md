@@ -5,7 +5,7 @@
 </div>
 
 # Backend Developer Chan Ik Yun
-
+<!--
 <table>
   <tr>
     <td width="350" valign="top">
@@ -24,6 +24,7 @@
 <br>
 
 --- 
+-->
 
 # Representative Projects
 
