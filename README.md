@@ -94,14 +94,14 @@ GPS 신호가 차단되는 실내 환경에서 스마트폰 센서와 딥러닝�
 - 디지털 금융 인재 양성과정 수료 (AWS 및 클라우드 교육)/ 메가존클라우드 아이티 평생교육원/ 2023. 09
 ---
 
-
+<!--
 ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ychoik&show_icons=true&theme=tokyonight" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychoik&layout=compact&theme=tokyonight" height="180em" />
 </div>
-
+-->
 
 ## 🛠 Tech Stacks
 
