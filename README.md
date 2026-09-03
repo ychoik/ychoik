@@ -84,7 +84,8 @@ GPS 신호가 차단되는 실내 환경에서 스마트폰 센서와 딥러닝�
 ---
 ## 🏆 Activities
 
-
+- 삼성청년SW·AI아카데미(SSAFY,싸피 16기) / 2026.07.~
+- IT 사이드 프로젝트 프로그램 SWYP 앱 5기 수료 / 2026.05.~2026.08
 - KCI 등재 학술지 논문 게재 / 2025년 10월 21일 / 한국통신학회(KICS) <br>
   (DBpia 링크 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12567180)
 - 2025년 캡스톤디자인 경진대회 /최우수상/ 2025년 09월 27일/ 영남대학교
