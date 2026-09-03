@@ -76,7 +76,7 @@ GPS 신호가 차단되는 실내 환경에서 스마트폰 센서와 딥러닝�
 
 | Project | Description | Link |
 |--------|------------|------|
-| **Kohere** | 외국인 맞춤형 주거 탐색 플랫폼 | [Repo](https://github.com/ychoik/back_fastapi_my) |
+| **Kohere** | 외국인 맞춤형 주거 탐색 플랫폼 | [Repo](https://github.com/swyp-app-5th-team1/Kohere-backend) |
 | **MagNavi** | 자기장 기반 실내 측위 및 내비게이션 | [Repo](https://github.com/ychoik/back_fastapi_my) |
 | **Paperdot** | 영어 원문-번역 1:1 매칭 학습 서비스 | [Repo](https://github.com/ychoik/be-paper-reader_myself.git) |
  
