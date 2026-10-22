@@ -1,9 +1,9 @@
 <!--
-Profile design: light blue banner, original technology colors.
+Profile design: vivid sky blue accents, original technology colors.
 Visual tools: Capsule Render, Go Skill Icons (light), Shields.io, GitHub Readme Stats.
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:EAF6FF,100:CFE8F8&amp;height=180&amp;text=CHAN%20IK&amp;fontColor=355C7D&amp;fontSize=46&amp;fontAlignY=40&amp;desc=Backend%20Developer&amp;descSize=19&amp;descAlignY=68" width="100%" alt="CHAN IK — Backend Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:80D0FF,100:4AAEF0&amp;height=180&amp;text=CHAN%20IK&amp;fontColor=143D5C&amp;fontSize=46&amp;fontAlignY=40&amp;desc=Backend%20Developer&amp;descSize=19&amp;descAlignY=68" width="100%" alt="CHAN IK — Backend Developer" />
 </p>
 
 <h2 align="center">안녕하세요, 백엔드 개발자 윤찬익입니다.</h2>
@@ -16,7 +16,7 @@ Visual tools: Capsule Render, Go Skill Icons (light), Shields.io, GitHub Readme 
 
 <p align="center">
   <a href="https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b">
-    <img src="https://img.shields.io/badge/Portfolio-729DC2?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion 포트폴리오" />
+    <img src="https://img.shields.io/badge/Portfolio-238ED0?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion 포트폴리오" />
   </a>
 </p>
 
@@ -114,7 +114,10 @@ mailto:yooni06151236@gmail.com
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ychoik&amp;show_icons=true&amp;theme=default&amp;bg_color=F7FBFF&amp;title_color=355C7D&amp;text_color=526777&amp;icon_color=729DC2&amp;border_color=DCEAF4&amp;border_radius=16&amp;hide_rank=true&amp;disable_animations=true&amp;card_width=495" width="495" alt="ychoik의 GitHub 활동 통계" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ychoik&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;icon_color=168FD5&amp;ring_color=279FE7&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;card_width=460&amp;custom_title=GitHub%20Activity" height="190" align="center" alt="ychoik의 GitHub 활동 통계와 순위" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychoik&amp;layout=donut&amp;langs_count=5&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;custom_title=Language%20Mix" height="190" align="center" alt="ychoik의 사용 언어 도넛 차트" />
   </a>
 </p>
-<p align="center"><sub>공개 저장소 기준 · GitHub Readme Stats</sub></p>
+<p align="center"><sub>공개 저장소 기준 · 언어 비중은 코드량 기준</sub></p>
