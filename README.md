@@ -130,3 +130,18 @@ mailto:yooni06151236@gmail.com
 <p align="center">
   <sub>공개 저장소 기준 · 언어 비중은 코드량 기준</sub>
 </p>
+<h2 align="center">🏙 My GitHub City</h2>
+
+<p align="center">
+  <a href="https://gitcity.natrajx.in/ychoik?theme=ice">
+    <img
+      src="https://gitcity.natrajx.in/api/svg?u=ychoik&amp;theme=ice"
+      width="100%"
+      alt="ychoik의 GitHub 기여도를 표현한 3D 도시"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>도시를 클릭하면 직접 살펴볼 수 있습니다.</sub>
+</p>
