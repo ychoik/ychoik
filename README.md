@@ -1,10 +1,14 @@
 <!--
 Profile design: vivid sky blue accents, original technology colors.
-Visual tools: Capsule Render, Shields.io, GitHub Readme Stats.
+Visual tools: Readme Typing SVG, Shields.io, GitHub Stats Extended, GitCity.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:80D0FF,100:4AAEF0&amp;height=180&amp;text=CHAN%20IK&amp;fontColor=143D5C&amp;fontSize=46&amp;fontAlignY=40&amp;desc=Backend%20Developer&amp;descSize=19&amp;descAlignY=68" width="100%" alt="CHAN IK — Backend Developer" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=32&amp;duration=3200&amp;pause=1400&amp;color=238ED0&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=90&amp;lines=CHAN+IK+%7C+Backend+Developer;Java+%26+Spring+Boot&amp;repeat=true"
+    width="100%"
+    alt="CHAN IK | Backend Developer — Java &amp; Spring Boot"
+  />
 </p>
 
 <h2 align="center">안녕하세요, 백엔드 개발자 윤찬익입니다.</h2>
@@ -119,17 +123,30 @@ mailto:yooni06151236@gmail.com
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ychoik&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;icon_color=168FD5&amp;ring_color=279FE7&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;card_width=460&amp;custom_title=GitHub%20Activity" height="190" align="center" alt="ychoik의 GitHub 활동 통계와 순위" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=ychoik&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;icon_color=168FD5&amp;ring_color=279FE7&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;card_width=460&amp;custom_title=GitHub%20Activity"
+      height="190"
+      align="center"
+      alt="ychoik의 GitHub 활동 통계와 순위"
+    />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychoik&amp;layout=donut&amp;langs_count=5&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;custom_title=Language%20Mix" height="190" align="center" alt="ychoik의 사용 언어 도넛 차트" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ychoik&amp;layout=donut&amp;langs_count=5&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;custom_title=Language%20Mix"
+      height="190"
+      align="center"
+      alt="ychoik의 사용 언어 도넛 차트"
+    />
   </a>
 </p>
 
 <p align="center">
   <sub>공개 저장소 기준 · 언어 비중은 코드량 기준</sub>
 </p>
+
+<br>
+
 <h2 align="center">🏙 My GitHub City</h2>
 
 <p align="center">
