@@ -1,7 +1,8 @@
 <!--
 Profile design: vivid sky blue accents, original technology colors.
-Visual tools: Capsule Render, Go Skill Icons (light), Shields.io, GitHub Readme Stats.
+Visual tools: Capsule Render, Shields.io, GitHub Readme Stats.
 -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:80D0FF,100:4AAEF0&amp;height=180&amp;text=CHAN%20IK&amp;fontColor=143D5C&amp;fontSize=46&amp;fontAlignY=40&amp;desc=Backend%20Developer&amp;descSize=19&amp;descAlignY=68" width="100%" alt="CHAN IK — Backend Developer" />
 </p>
@@ -20,54 +21,59 @@ Visual tools: Capsule Render, Go Skill Icons (light), Shields.io, GitHub Readme 
   </a>
 </p>
 
-
 <br>
 
 <h2 align="center">🛠 Skills</h2>
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="350">
-      <h3>백엔드</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring&amp;theme=light&amp;titles=true" height="68" alt="Java, Spring Boot" />
-      <br><sub>Java · Spring Boot</sub>
-      <br><br>
-    </td>
-    <td align="center" valign="top" width="350">
-      <h3>데이터베이스</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,postgresql&amp;theme=light&amp;titles=true" height="68" alt="MySQL, MongoDB, PostgreSQL" />
-      <br><sub>MySQL · MongoDB · PostgreSQL</sub>
-      <br><br>
+    <th align="left" width="150">Category</th>
+    <th align="left" width="600">Technologies</th>
+  </tr>
+  <tr>
+    <td><b>백엔드</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" height="26" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" height="26" alt="Spring Boot" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="350">
-      <h3>실시간 통신</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=websocket,grpc,firebase&amp;theme=light&amp;titles=true" height="68" alt="WebSocket, gRPC, Firebase" />
-      <br><sub>WebSocket · gRPC · FCM</sub>
-      <br><sub>STOMP</sub>
-      <br><br>
-    </td>
-    <td align="center" valign="top" width="350">
-      <h3>모델 서버 연동</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi&amp;theme=light&amp;titles=true" height="68" alt="Python, FastAPI" />
-      <br><sub>Python · FastAPI</sub>
-      <br><br>
+    <td><b>데이터베이스</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" height="26" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" height="26" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" height="26" alt="PostgreSQL" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="350">
-      <h3>배포와 운영</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,cloudwatch,docker,githubactions&amp;theme=light&amp;titles=true" height="68" alt="AWS, CloudWatch, Docker, GitHub Actions" />
-      <br><sub>AWS · CloudWatch · Docker · GitHub Actions</sub>
-      <br><br>
+    <td><b>실시간 통신</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge" height="26" alt="WebSocket" />
+      <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" height="26" alt="gRPC" />
     </td>
-    <td align="center" valign="top" width="350">
-      <h3>API 검증과 협업</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,junit,git,slack&amp;theme=light&amp;titles=true" height="68" alt="Swagger, JUnit, Git, Slack" />
-      <br><sub>Swagger · JUnit 5 · Git · Slack</sub>
-      <br><sub>Spring REST Docs</sub>
-      <br><br>
+  </tr>
+  <tr>
+    <td><b>모델 서버 연동</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="26" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" height="26" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>배포와 운영</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" height="26" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" height="26" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="26" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>API 검증과 협업</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&amp;logo=swagger&amp;logoColor=black" height="26" alt="Swagger" />
+      <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge" height="26" alt="JUnit 5" />
+      <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" height="26" alt="Spring REST Docs" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" height="26" alt="Git" />
     </td>
   </tr>
 </table>
@@ -120,4 +126,7 @@ mailto:yooni06151236@gmail.com
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychoik&amp;layout=donut&amp;langs_count=5&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;custom_title=Language%20Mix" height="190" align="center" alt="ychoik의 사용 언어 도넛 차트" />
   </a>
 </p>
-<p align="center"><sub>공개 저장소 기준 · 언어 비중은 코드량 기준</sub></p>
+
+<p align="center">
+  <sub>공개 저장소 기준 · 언어 비중은 코드량 기준</sub>
+</p>
