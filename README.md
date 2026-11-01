@@ -1,6 +1,6 @@
 <!--
 Profile design: vivid sky blue accents, original technology colors.
-Visual tools: Readme Typing SVG, Shields.io, GitHub Stats Extended, GitCity.
+Visual tools: Readme Typing SVG, icon-marquee, Shields.io, GitHub Stats Extended, GitCity.
 -->
 
 <p align="center">
@@ -29,58 +29,17 @@ Visual tools: Readme Typing SVG, Shields.io, GitHub Stats Extended, GitCity.
 
 <h2 align="center">🛠 Skills</h2>
 
-<table align="center">
-  <tr>
-    <th align="left" width="150">Category</th>
-    <th align="left" width="600">Technologies</th>
-  </tr>
-  <tr>
-    <td><b>백엔드</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" height="26" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" height="26" alt="Spring Boot" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>데이터베이스</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" height="26" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" height="26" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" height="26" alt="PostgreSQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>실시간 통신</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge" height="26" alt="WebSocket" />
-      <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" height="26" alt="gRPC" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>모델 서버 연동</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="26" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" height="26" alt="FastAPI" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>배포와 운영</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" height="26" alt="AWS" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" height="26" alt="Docker" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="26" alt="GitHub Actions" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>API 검증과 협업</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&amp;logo=swagger&amp;logoColor=black" height="26" alt="Swagger" />
-      <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge" height="26" alt="JUnit 5" />
-      <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" height="26" alt="Spring REST Docs" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" height="26" alt="Git" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://icon-marquee.giann.dev/v1/marquee?i=java,springboot,mysql,mongodb,postgresql,websocket,grpc,python,fastapi,aws,docker,githubactions,swagger,junit5,git&amp;width=800"
+    width="800"
+    alt="Java, Spring Boot, MySQL, MongoDB, PostgreSQL, WebSocket, gRPC, Python, FastAPI, AWS, Docker, GitHub Actions, Swagger, JUnit 5, Git"
+  />
+</p>
+
+<p align="center">
+  <sub>API 문서화 · Spring REST Docs</sub>
+</p>
 
 <br>
 
@@ -113,11 +72,6 @@ Visual tools: Readme Typing SVG, Shields.io, GitHub Stats Extended, GitCity.
 
 [Notion 포트폴리오](https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b)
 
-<!--
-Optional contact — intentionally unpublished:
-mailto:yooni06151236@gmail.com
--->
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -127,7 +81,6 @@ mailto:yooni06151236@gmail.com
     <img
       src="https://github-stats-extended.vercel.app/api?username=ychoik&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;icon_color=168FD5&amp;ring_color=279FE7&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;card_width=460&amp;custom_title=GitHub%20Activity"
       height="190"
-      align="center"
       alt="ychoik의 GitHub 활동 통계와 순위"
     />
   </a>
@@ -135,7 +88,6 @@ mailto:yooni06151236@gmail.com
     <img
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=ychoik&amp;layout=donut&amp;langs_count=5&amp;theme=default&amp;bg_color=0,E3F3FF,CBEAFF&amp;title_color=0878BE&amp;text_color=204D6B&amp;border_color=79C1ED&amp;border_radius=16&amp;disable_animations=true&amp;custom_title=Language%20Mix"
       height="190"
-      align="center"
       alt="ychoik의 사용 언어 도넛 차트"
     />
   </a>
