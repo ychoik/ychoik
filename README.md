@@ -70,7 +70,7 @@ Visual tools: Readme Typing SVG, icon-marquee, Shields.io, GitHub Stats Extended
 
 ## 🔗 Contact
 
-[Notion 포트폴리오](https://www.notion.so/CHAN-IK-YUN-4b6dedc0d781826281ff81b143747e3b)
+[이력서](https://app.notion.com/p/YUN-CHANIK-021dedc0d781833fbf6f81ad9837bed7)
 
 ---
 
